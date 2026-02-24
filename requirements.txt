@@ -2,3 +2,11 @@ requests
 beautifulsoup4
 playwright
 lxml
+pdfminer.six
+sudachipy 
+sudachidict_core
+pymupdf
+gensim 
+scikit-learn 
+matplotlib 
+umap-learn
